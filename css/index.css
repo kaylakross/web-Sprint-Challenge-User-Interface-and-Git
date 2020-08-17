@@ -144,3 +144,50 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.box1 {
+    background-color: teal;
+}
+.box2 {
+    background-color: gold;
+}
+.box3 {
+    background-color: cadetblue;
+}
+.box4 {
+    background-color: coral;
+}
+.box5 {
+    background-color: crimson;
+}
+.box6 {
+    background-color: forestgreen;
+}
+.box7 {
+    background-color: darkorchid;
+}
+.box8 {
+    background-color: hotpink;
+}
+.box9 {
+    background-color: indigo;
+}
+.box10 {
+    background-color: dodgerblue;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+  }
+
+.flex-container > div {
+    background-color: white;
+    width: 120px;
+    margin: 20px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.lights {
+    margin: auto;
+}
