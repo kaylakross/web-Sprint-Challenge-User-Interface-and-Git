@@ -1,0 +1,14 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+** The basic blueprint of how a webpage is setup
+
+Name two big differences between display: block; and display: inline;
+** (1) Inline will be on the same line where block will be on seperate lines (2) Inline block can have margin/padding on all sides 
+
+What are the 4 areas of the box model?
+** Margin, bored, padding, and content
+
+While using flexbox, what axis does the following property work on: align-items: center?
+** Cross Axis
+
+Explain why git is valuable to a team of developers
+** It lets multiple developers work together on a single project without altering the master copy and getting in the way of eachother
